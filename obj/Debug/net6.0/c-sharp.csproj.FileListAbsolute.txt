@@ -1,0 +1,15 @@
+/Users/RODMAC/code/c-sharp/bin/Debug/net6.0/c-sharp
+/Users/RODMAC/code/c-sharp/bin/Debug/net6.0/c-sharp.deps.json
+/Users/RODMAC/code/c-sharp/bin/Debug/net6.0/c-sharp.runtimeconfig.json
+/Users/RODMAC/code/c-sharp/bin/Debug/net6.0/c-sharp.dll
+/Users/RODMAC/code/c-sharp/bin/Debug/net6.0/c-sharp.pdb
+/Users/RODMAC/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.AssemblyReference.cache
+/Users/RODMAC/code/c-sharp/obj/Debug/net6.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RODMAC/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfoInputs.cache
+/Users/RODMAC/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfo.cs
+/Users/RODMAC/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.CoreCompileInputs.cache
+/Users/RODMAC/code/c-sharp/obj/Debug/net6.0/c-sharp.dll
+/Users/RODMAC/code/c-sharp/obj/Debug/net6.0/refint/c-sharp.dll
+/Users/RODMAC/code/c-sharp/obj/Debug/net6.0/c-sharp.pdb
+/Users/RODMAC/code/c-sharp/obj/Debug/net6.0/c-sharp.genruntimeconfig.cache
+/Users/RODMAC/code/c-sharp/obj/Debug/net6.0/ref/c-sharp.dll
