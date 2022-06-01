@@ -15,7 +15,17 @@ public class BankAccount
     }
 
     public BankAccount( string owner, decimal initialBalance){
+        AccountNumber = "4874 6424 9588 4647";
         Owner = owner;
         Balance = initialBalance;
     }
+
+    public void MakeDeposit(decimal amount){
+        if(amount <=0){
+            throw new ArgumentException("Can't deposit nothing!");
+        }
+        Balance += amount;
+    }
+
+
 }

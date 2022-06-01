@@ -1,4 +1,6 @@
-﻿// var stranger = "Rodrigo";
+﻿
+
+// var stranger = "Rodrigo";
 // string friend = "Darie";
 // Console.WriteLine("Hello, " + stranger + ". It is me, " + friend);
 
@@ -66,4 +68,18 @@
 // Console.WriteLine("-----");
 
 // Console.WriteLine($"The value is {list[3]}");
+
+using Accounts;
+
+// BankAccount account = new BankAccount();
+// Console.WriteLine($"This is {account.Owner}'s Account #{account.AccountNumber} and the balance BTC is {account.Balance}");
+
+// BankAccount account2 = new BankAccount("Natalia", decimal.MinValue);
+// Console.WriteLine($"This is {account2.Owner}'s Account #{account2.AccountNumber} and the balance BTC is {account2.Balance}");
+
+SavingAccount savings1 = new SavingAccount("Natalia", 0);
+savings1.Balance = 2000.0m;
+savings1.InterestRate = 0.05m; 
+
+Console.WriteLine($"This is {savings1.Owner}'s Savings #{savings1.AccountNumber} and the balance BTC is {savings1.Balance}");
 
