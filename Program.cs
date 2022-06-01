@@ -23,27 +23,47 @@
 // Console.WriteLine(maxD);
 // Console.WriteLine("----- // ----- // ----- // ----- // ----- // ----- // -----");
 
+// var arr1 = new int[10];
+// int[] arr2 = new int[] {1,2,3,4};
 
-var arr1 = new int[10];
-int[] arr2 = new int[] {1,2,3,4};
+// arr1[0] = 100;
 
-arr1[0] = 100;
+// Console.WriteLine(arr1[0]);
+// Console.WriteLine(arr2[0]);
 
-Console.WriteLine(arr1[0]);
-Console.WriteLine(arr2[0]);
+// for (var i=0; i<arr1.Length; i++){
+//     Console.WriteLine($"Array Index {i} Element Value {arr1[i]}");
+// };
 
-for (var i=0; i<arr1.Length; i++){
-    Console.WriteLine($"Array Index {i} Element Value {arr1[i]}");
-};
+// Console.WriteLine("----- // ----- // ----- // ----- // ----- // ----- // -----");
 
-Console.WriteLine("----- // ----- // ----- // ----- // ----- // ----- // -----");
+// for (var i=0; i<arr2.Length; i++){
+//     Console.WriteLine($"Array Index {i} Element Value {arr2[i]}");
+// };
 
-for (var i=0; i<arr2.Length; i++){
-    Console.WriteLine($"Array Index {i} Element Value {arr2[i]}");
-};
+// Console.WriteLine("----- // ----- // ----- // ----- // ----- // ----- // -----");
 
-Console.WriteLine("----- // ----- // ----- // ----- // ----- // ----- // -----");
+// foreach(var el in arr1){
+//     Console.WriteLine(el);
+// }
 
-foreach(var el in arr1){
-    Console.WriteLine(el);
-}
+// Console.WriteLine("----- // ----- // ----- // ----- // ----- // ----- // -----");
+
+// var arr3 = new int[10];
+// arr3[3] = 15;
+// arr3[7] = -67;
+// arr3[5] = 46;
+
+// List<int> list = new List<int>();
+
+// list.AddRange(arr3);
+// list.Add(1000);
+// list.Add(2000);
+
+// foreach(var el in list){
+//     Console.WriteLine($"The value is {el}");
+// }
+// Console.WriteLine("-----");
+
+// Console.WriteLine($"The value is {list[3]}");
+
